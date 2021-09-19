@@ -1,3 +1,3 @@
-var add = require("./add.js");
+const add = require("./add");
 
 console.log(add);
